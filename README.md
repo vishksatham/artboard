@@ -1,4 +1,4 @@
-# This is a Full-Stack Squares Image Editor Application
+# Full-Stack Squares Image Editor Application
 
 # Overview:
 
