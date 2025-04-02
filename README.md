@@ -2,7 +2,7 @@
 
 # Overview:
 
-This application allows users to create, edit, and save designs made up of colored squares. The project consists of a Node.js server handling API requests and a React client for user interaction.
+This TypeScript application allows users to create, edit, and save designs made up of colored squares. The project consists of a Node.js server handling API requests and a React client for user interaction.
 
 # Features:
 
