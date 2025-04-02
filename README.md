@@ -1,6 +1,6 @@
 # artboard
 
-Full Stack Squares Image Editor Application
+This is a Full-Stack Squares Image Editor Application
 
 Overview
 This application allows users to create, edit, and save designs made up of colored squares. The project consists of a Node.js server handling API requests and a React client for user interaction.
